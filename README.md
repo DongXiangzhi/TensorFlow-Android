@@ -1,5 +1,6 @@
 # TensorFlow+Android 经典模型从理论到实战（微课视频版）
 
+![image]([https://github.com/DongXiangzhi/TensorFlow-Android/blob/main/images/book2.jpg](https://github.com/DongXiangzhi/TensorFlow-Android/blob/main/images/book1.jpg))
 
 ##  内容简介
 <p font-size="20">           $\color{red}{这是一本以项目为引领、以经典模型为主线的面向产业链的实战化教科书}$。全书包含九个实战项目，分为九章。 以基于Android手机的智能化应用场景为项目目标，采用迭代模式，从基于TensorFlow的智能建模开始，到基于Android的应用开发结束。模型从训练到部署，设计周期长，技术要点多，复杂度高，工作量大，考验设计者的恒心与毅力。</p>
@@ -13,13 +14,13 @@
 ## 前 言
 
 <p font-size="20"> 这是一本以项目为引领、以经典模型为主线的面向产业链的实战化教科书。从建模到应用、从理论到实践、TensorFlow与Android贯串始终。聚焦前沿，贴近生产，产教融合，注重实战。</p>
-<p font-size="20"> 全书技术演进路线如图1所示。模型挂帅，场景领航。学以致用，一以贯之。运用之妙，存乎一心。理论实战，一气呵成。</p>
+<p font-size="20"> 全书技术演进路线如图2所示。模型挂帅，场景领航。学以致用，一以贯之。运用之妙，存乎一心。理论实战，一气呵成。</p>
 <p font-size="20"> 三条模型部署路径，Web服务器模式、Socket服务器模式、轻量级边缘计算模式无缝集成，相互补充、相互支持。中央服务器模式，可实现一对多的大规模并发应用。边缘计算模式的优点是不依赖远程网络和中央计算。</p>
 <p font-size="20"> 本书建模采用TensorFlow框架，Web服务器和Socket服务器采用Python语言编程。Android开发采用Kotlin语言编程。</p>
 
 ![image](https://github.com/DongXiangzhi/TensorFlow-Android/blob/main/images/book2.jpg)
  
-#### <div align="center">图1 全书技术演进路线</div>
+#### <div align="center">图2 全书技术演进路线</div>
 
 <p font-size="20"> 全书九章，九个实战项目，涉及图像分类、目标检测、语言智能、人脸识别、图像生成、生物信息六个主题领域。第八章、第九章的生物信息项目计算量较大，模型推理周期较长，不适合Android即时部署演示。其他七个项目，全部实现了从TensorFlow建模起步，到Android场景部署的教学示范和应用示范。</p>
 本书所有章节配备同步高清教学视频，读者可跟随教材同步复现项目设计的全部流程。纸质教材是教学视频的经纬根基，教学视频则是对纸质教材的立体超越。微课版教材的优势是：纸质教材纲举目张，教学视频见微知著，二者相辅相成，实现1+1>2的教学效果。</p>
