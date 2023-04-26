@@ -3,7 +3,7 @@
 ![image](https://github.com/DongXiangzhi/TensorFlow-Android/blob/main/images/book1.jpg)
 
 ##  内容简介
-####    {这是一本以项目为引领、以经典模型为主线的面向产业链的实战化教科书。
+####    这是一本以项目为引领、以经典模型为主线的面向产业链的实战化教科书。
 
 <p font-size="20">全书包含九个实战项目，分为九章。 以基于Android手机的智能化应用场景为项目目标，采用迭代模式，从基于TensorFlow的智能建模开始，到基于Android的应用开发结束。模型从训练到部署，设计周期长，技术要点多，复杂度高，工作量大，考验设计者的恒心与毅力。</p>
     
