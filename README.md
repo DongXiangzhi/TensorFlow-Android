@@ -1,7 +1,6 @@
 # TensorFlow+Android 经典模型从理论到实战（微课视频版）
 
-<div align="center">
-![image](https://github.com/DongXiangzhi/TensorFlow-Android/blob/main/images/book1.jpg) </div>
+![image](https://github.com/DongXiangzhi/TensorFlow-Android/blob/main/images/book1.jpg)
 
 ##  内容简介
 <p font-size="20">           $\color{red}{这是一本以项目为引领、以经典模型为主线的面向产业链的实战化教科书}$。全书包含九个实战项目，分为九章。 以基于Android手机的智能化应用场景为项目目标，采用迭代模式，从基于TensorFlow的智能建模开始，到基于Android的应用开发结束。模型从训练到部署，设计周期长，技术要点多，复杂度高，工作量大，考验设计者的恒心与毅力。</p>
@@ -19,8 +18,7 @@
 <p font-size="20"> 三条模型部署路径，Web服务器模式、Socket服务器模式、轻量级边缘计算模式无缝集成，相互补充、相互支持。中央服务器模式，可实现一对多的大规模并发应用。边缘计算模式的优点是不依赖远程网络和中央计算。</p>
 <p font-size="20"> 本书建模采用TensorFlow框架，Web服务器和Socket服务器采用Python语言编程。Android开发采用Kotlin语言编程。</p>
 
-<div align="center">
-![image](https://github.com/DongXiangzhi/TensorFlow-Android/blob/main/images/book2.jpg)</div>
+![image](https://github.com/DongXiangzhi/TensorFlow-Android/blob/main/images/book2.jpg)
  
 #### <div align="center">图2 全书技术演进路线</div>
 
