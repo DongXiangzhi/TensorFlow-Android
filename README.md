@@ -35,14 +35,14 @@
 
 ## 目  录
 
-### 第1章 EfficientNetV2与花朵识别
-### 第2章 MobileNetV3与鸟类识别	
-### 第3章 EfficientDet与美食场景检测	
-### 第4章 YOLOv5与驾驶场景检测
-### 第5章 Transformer与人机畅聊	
-### 第6章 StyleGAN与人脸生成	
-### 第7章 FaceNet与人脸活体识别	
-### 第8章 BERT与基因序列预测	
-### 第9章 AlphaFold2与蛋白质结构预测
-### 参考文献
+<p font-size="20"> 第1章 EfficientNetV2与花朵识别</p>
+<p font-size="20"> 第2章 MobileNetV3与鸟类识别	</p>
+<p font-size="20"> 第3章 EfficientDet与美食场景检测	</p>
+<p font-size="20"> 第4章 YOLOv5与驾驶场景检测</p>
+<p font-size="20"> 第5章 Transformer与人机畅聊	</p>
+<p font-size="20"> 第6章 StyleGAN与人脸生成	</p>
+<p font-size="20"> 第7章 FaceNet与人脸活体识别	</p>
+<p font-size="20"> 第8章 BERT与基因序列预测	</p>
+<p font-size="20"> 第9章 AlphaFold2与蛋白质结构预测</p>
+<p font-size="20"> 参考文献</p>
 
