@@ -2,7 +2,7 @@
 
 
 ##  内容简介
-<p font-size="20">           $color{red}{这是一本以项目为引领、以经典模型为主线的面向产业链的实战化教科书}$。全书包含九个实战项目，分为九章。 以基于Android手机的智能化应用场景为项目目标，采用迭代模式，从基于TensorFlow的智能建模开始，到基于Android的应用开发结束。模型从训练到部署，设计周期长，技术要点多，复杂度高，工作量大，考验设计者的恒心与毅力。</p>
+<p font-size="20">           $\color{red}{这是一本以项目为引领、以经典模型为主线的面向产业链的实战化教科书}$。全书包含九个实战项目，分为九章。 以基于Android手机的智能化应用场景为项目目标，采用迭代模式，从基于TensorFlow的智能建模开始，到基于Android的应用开发结束。模型从训练到部署，设计周期长，技术要点多，复杂度高，工作量大，考验设计者的恒心与毅力。</p>
     
 <p font-size="20">    场景无限好，模型来相撑。场景包括：一百余种花朵识别、三百余种鸟类识别、美食场景检测、驾驶场景检测、人机聊天、人脸生成、人脸识别与活体检测、基因序列预测、蛋白质结构预测。模型包括：EfficientNetV1~V2、MobileNetV1~V3、EfficientDet、YOLOv1~v5、Transformer、GAN、Progressive GAN、StyleGAN1~StyleGAN3、VGG-Face、FaceNet、BERT、DenseNet121、AlphaFold2。</p>
     
