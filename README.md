@@ -1,8 +1,8 @@
 # TensorFlow+Android 经典模型从理论到实战（微课视频版）
 
 ## 部分Android端实例演示
-<p>参见这里：(https://www.bilibili.com/video/BV1yB4y1n7eJ/?spm_id_from=333.999.0.0)
-</p>
+<p>参见这里：(https://www.bilibili.com/video/BV1yB4y1n7eJ/?spm_id_from=333.999.0.0)</p>
+
 ![image](https://github.com/DongXiangzhi/TensorFlow-Android/blob/main/images/book1.jpg)
 
 ##  内容简介
